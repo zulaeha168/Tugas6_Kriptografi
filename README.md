@@ -108,6 +108,8 @@ for plaintext in plaintexts:
 
 - ## Outputnya
 
-![output kriptografi](https://github.com/user-attachments/assets/653dc9a9-ffe3-4b05-ac07-da443b350b1b)
+![Output kripto](https://github.com/user-attachments/assets/113d895e-56dd-4186-9172-8f16775e8b5f)
+
+
 
 
