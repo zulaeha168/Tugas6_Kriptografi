@@ -6,7 +6,8 @@ NIM : 312210575
 
 Kelas : TI.22.A.5
 
-![image](https://github.com/user-attachments/assets/bc5c40d9-b008-454e-b838-259e13430168)
+![image](https://github.com/user-attachments/assets/d3da5fd3-788e-48e4-b1c5-4bc09df10cb1)
+
 
 - Berikut code pyhton nya :
 ```
