@@ -103,7 +103,8 @@ for plaintext in plaintexts:
     print(f"Decrypted: {decrypted}\n")
 ```
 
-- Hasilnya adalah :
+- Outputnya
 
-![image](https://github.com/user-attachments/assets/03ef18c5-a318-4e52-b808-a2b7ee89996c)
+![output kriptografi](https://github.com/user-attachments/assets/653dc9a9-ffe3-4b05-ac07-da443b350b1b)
+
 
