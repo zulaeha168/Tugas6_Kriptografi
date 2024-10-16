@@ -1,16 +1,19 @@
 # Tugas6_KriptografiPlayfair Cihper
 
-NAMA : ZULAEHA
+NAMA  : ZULAEHA
 
-NIM : 312210575
+NIM   : 312210575
 
-Kelas : TI.22.A.5
+KELAS : TI.22.A.5
+
+MATA KULIAH : KRIPTOGRAFI
+
 
 ![kriptografi tugas 6](https://github.com/user-attachments/assets/1513ab15-d819-41b5-9360-2c32f6148175)
 
 
 
-- code pyhton nya :
+- ## code pyhton nya :
 ```
 import re
 
@@ -103,7 +106,7 @@ for plaintext in plaintexts:
     print(f"Decrypted: {decrypted}\n")
 ```
 
-- Outputnya
+- ## Outputnya
 
 ![output kriptografi](https://github.com/user-attachments/assets/653dc9a9-ffe3-4b05-ac07-da443b350b1b)
 
