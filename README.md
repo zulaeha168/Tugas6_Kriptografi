@@ -1,9 +1,12 @@
-# Tugas6_Kriptografi
+# Tugas6_KriptografiPlayfair Cihper
+
 NAMA : ZULAEHA
 
 NIM : 312210575
 
 Kelas : TI.22.A.5
+
+![image](https://github.com/user-attachments/assets/bc5c40d9-b008-454e-b838-259e13430168)
 
 - Berikut code pyhton nya :
 ```
