@@ -105,46 +105,5 @@ for plaintext in plaintexts:
 
 - Hasilnya adalah :
 
-![kriptografi](https://github.com/user-attachments/assets/e5fc14ae-be5b-4d61-89bd-efddf9715157)
+![image](https://github.com/user-attachments/assets/03ef18c5-a318-4e52-b808-a2b7ee89996c)
 
-
-## Penjelasan singkat :
-
-1. Kunci dan Matriks Playfair:
-
-Kunci yang digunakan adalah "TEKNIFORMA".
-Matriks Playfair 5x5 dibuat dari kunci tersebut, dan huruf berulang dihilangkan. Sisanya diisi dengan huruf alfabet lainnya kecuali J.
-
-Matriksnya menjadi :
-```
-T E K N I
-F O R M A
-B C D G H
-L P Q S U
-V W X Y Z
-```
-
-2. Plaintext:
-
-Plaintext yang akan dienkripsi adalah "GOOD BROOM SWEEP CLEAN".
-Teks diubah menjadi pasangan huruf: "GO", "OD", "BR", "OO", "MS", "WE", "EP", "CL", "EA", "NX" (huruf X ditambahkan untuk panjang ganjil).
-
-3. Proses Enkripsi:
-
-Setiap pasangan huruf diambil dari matriks, lalu dienkripsi dengan aturan Playfair:
-
-- Jika kedua huruf berada dalam baris yang sama, geser ke kanan.
-  
-- Jika dalam kolom yang sama, geser ke bawah.
-  
-- Jika tidak, tukar dengan huruf di sudut berlawanan dari persegi panjang yang dibentuk.
-  
-Contoh enkripsi untuk beberapa pasangan:
-
-GO: Huruf G (baris 3, kolom 4) dan O (baris 2, kolom 2) → jadi C dan M.
-
-OD: Huruf O (baris 2, kolom 2) dan D (baris 3, kolom 3) → jadi R dan C.
-
-BR: Huruf B (baris 3, kolom 1) dan R (baris 2, kolom 3) → jadi D dan F.
-
-Ulangi proses ini untuk setiap pasangan huruf sampai seluruh plaintext terenkripsi.
