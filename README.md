@@ -10,7 +10,7 @@ Kelas : TI.22.A.5
 
 
 
-- Berikut code pyhton nya :
+- code pyhton nya :
 ```
 import re
 
